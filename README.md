@@ -36,11 +36,11 @@
  
  ## Minha História 
  
- ###      Iniciei no mundo da programação junto ao terceiro ano do ensino médio, quando passei no vestibular da ETEC Bento Quirino no Curso de Desenvolvimento de Sistemas, foi uma experiência dificil pois assim como o enino médio, foi remoto, então obtive uma certa dificuldade no aprendizado, e em certos momentos pensei em desitir. <br>
- ###      Porém, eu tive muito apoio de familiares, que não me deixaram desistir. Quando terminei o Ensino médio ano passado, eu prestei o vestibular para a FATEC para o curso de Análise e Desenvolvimento de Sistemas. Foi uma decisão muito dificil, ou eu tranco o técnico , começo a trabalhar e faço faculdade, tranco o primeiro semestre da faculdade, começo a trabalhar e termino o técnico, ou faço os dois juntos , foi uma decisão dificil, pois sem trabalhar eu teria que usar as minhas economias.
- ###      Ainda bem que comecei os dois hehe, pois agora estou terminando o primeiro semstre da faculdade, e agora sou um técnico em Desenvolvimento de Sistemas.
-
-
+ ###      Iniciei no mundo da programação junto ao terceiro ano do ensino médio, quando passei no vestibular da ETEC Bento Quirino no Curso de Desenvolvimento de Sistemas. Foi uma experiência desafiadora e complexa, pois assim como o ensino médio, foi um ensino remoto, então ao longo do decorrer do curo, obtive uma certa dificuldade no aprendizado e em certos momentos (diversos na real kk) pensei em desitir. <br>
+ 
+ ###      Porém, eu tive muito apoio dos meus familiares, que não me deixaram desistir. Quando terminei o Ensino  Médio  no final do ano passado, 2021, eu decidi prestar o Vestibular da Fatec Campinas, no curso de Análise e Desenvolvimento de Sistemas. em 2022, eu tive que tomar umas das mais dificeis escolhas, que seria o meu ponto crucial, na minha opinião. Trancar ou não o Técnico para focar na Faculdade e entrar no mercado de trabalho. 
+ 
+ ###      Depois de muita conversa, apoio de amigos, familiares e ex-professores, eu decidi fazer os dois juntos, confesso que foi dificil, mas não impossivel, então corri atrás, dinheiro da carteira de motorista foi nesse processo, mas sei que no fututo me guarda muito mais hehe. Hoje, sou um Técnico e Desenvolvimento de sistemas, terminando o primeiro semestre da faculdade e em busca da minha primeira oportunidade no mercado de trabalho!
 
 
 
