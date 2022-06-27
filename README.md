@@ -1,5 +1,9 @@
-## Hello Dev! My name is Gabriel Odorcik! 😃💻
+<h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
+<br>
+</h1>
+<br>
 
+## My name is Gabriel Odorcik! 😃💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhtps://instagram.com/gabrielodorcik_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](hhtps://instagram.com/gabrielodorcik_)
