@@ -1,5 +1,6 @@
 ## Hello Dev! Meu nome é Gabriel Odorcik! 😃💻
 
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](hhtps://instagram.com/gabrielodorcik_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](hhtps://instagram.com/gabrielodorcik_)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5519989559017&text=Ol%C3%A1%20Dev!%20Eu%20sou%20o%20Gabriel.%20)
@@ -32,6 +33,7 @@
 </div><br>
   
  ## Sou apaixonado por Tecnologia!💻❤️  <br>
+ ## I'm passionate about technology!💻❤️  <br>
  
  ## Minha História 
  
@@ -40,6 +42,15 @@
  ###      Porém, eu tive muito apoio dos meus familiares, que não me deixaram desistir. Quando terminei o Ensino  Médio  no final do ano passado, 2021, eu decidi prestar o Vestibular da Fatec Campinas, no curso de Análise e Desenvolvimento de Sistemas. em 2022, eu tive que tomar umas das mais dificeis escolhas, que seria o meu ponto crucial, na minha opinião. Trancar ou não o Técnico para focar na Faculdade e entrar no mercado de trabalho. 
  
  ###      Depois de muita conversa, apoio de amigos, familiares e ex-professores, eu decidi fazer os dois juntos, confesso que foi dificil, mas não impossivel, então corri atrás, dinheiro da carteira de motorista foi nesse processo, mas sei que no fututo me guarda muito mais hehe. Hoje, sou um Técnico e Desenvolvimento de sistemas, terminando o primeiro semestre da faculdade e em busca da minha primeira oportunidade no mercado de trabalho!
+ 
+ ## My History 
+ 
+ ###      I started in the programming world in the third year of high school, when I passed the entrance exam for ETEC Bento Quirino in the Systems Development Course. It was a challenging and complex experience, because just like high school, it was a remote teaching, so throughout the course, I had a certain difficulty in learning and at certain times (different in real kk) I thought about giving up. <br>
+ 
+ ###      However, I had a lot of support from my family, who did not let me give up. When I finished high school at the end of last year, 2021, I decided to take the Fatec Campinas Vestibular, in the Systems Analysis and Development course. in 2022, I had to make one of the most difficult choices, which would be my turning point, in my opinion. Whether or not to lock Técnico to focus on College and enter the job market.
+ 
+ ###      After a lot of conversation, support from friends, family and ex-teachers, I decided to do both together, I confess that it was difficult, but not impossible, so I ran after it, money from the driver's license was in this process, but I know that in the future I save much more. Today, I am a Systems Technician and Development, finishing the first semester of college and looking for my first opportunity in the job market!
+ 
 
 
 
