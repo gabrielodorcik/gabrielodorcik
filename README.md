@@ -4,7 +4,9 @@
 </h1>
 
 
-## My name is Gabriel! I'm Python and Javascript Developer. I'm Developer Intern at IBM ServiceNow. I Love Tech S2
+## My name is Gabriel! I'm Python and Javascript Developer. 
+  ##I'm Developer Intern at IBM ServiceNow. 
+   ##I Love Tech ❤️S2👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-odorcik-87771522a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielodorcik_/)
