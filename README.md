@@ -58,9 +58,9 @@
  
  ## My History 
  
- ###      I started in the programming world in the third year of high school, when I passed the entrance exam for ETEC Bento Quirino in the Systems Development Course. It was a challenging and complex experience, because just like high school, it was a remote teaching, so throughout the course, I had a certain difficulty in learning and at certain times (different in real kk) I thought about giving up. <br>
+ ###      I started in the programming world in the last year of high school, when I started the  Systems Development Course at ETEC. It was a challenging and complex experience, because just like high school, it was a remote teaching, so throughout the course, I had a certain difficulty in learning and at certain times (different in real kk) I thought about giving up. 
  
- ###      However, I had a lot of support from my family, who did not let me give up. When I finished high school at the end of last year, 2021, I decided to take the Fatec Campinas Vestibular, in the Systems Analysis and Development course. In 2022, I had to make one of the most difficult choices, which would be my turning point, in my opinion. Whether or not to lock Técnico to focus on College and enter the job market.
+ ###      However, I had a lot of support from my family, who did not let me give up. When I finished high school at 2021, I decided to take the Fatec Campinas Vestibular, in the Systems Analysis and Development course. In 2022, I had to make one of the most difficult choices, which would be my turning point, in my opinion. Whether or not to lock course to focus on College and enter the job market.
  
  ###      After a lot of conversation, support from friends, family and ex-teachers, I decided to do both together, I confess that it was difficult, but not impossible, so I ran after it, money from the driver's license was in this process, but I know that in the future I save much more. Today, I am a Systems Technician and Development, finishing the first semester of college and looking for my first opportunity in the job market!
  
