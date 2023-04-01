@@ -3,11 +3,26 @@
 <br>
 </h1>
 
-
-## My name is Gabriel! I'm Python and Javascript Developer. 
-  <h2>I'm Developer Intern at IBM ServiceNow.</h2> 
-  <br>
-  <h1>I Love Tech ❤️S2👨‍💻</h1>
+const name = "Gabriel Odorcik"
+function aboutMe(){
+    const pronouns = "He | Him";
+    let age = 19;
+    let profission = "Intern at IBM ServiceNow"  
+    const favoriteHobby = "I like watch Disney movies"  
+    let graduantionCollege = "Second Semester in Technological Analysis and Systems Development";
+    const graduationTechnical = "Systems Development Technician";
+    let Technologies = class Technologies { //sorry kk the body class is totally wrong, but I believe that you will understand.
+        constructor(frontendDeveloper) {
+            frontend = "Javascript, HTML/CSS and React.js"
+            frontendThatKnow = "Angular.js, PHP and Flask"
+            backend = "Python, Java, PHP and Node.js"
+            mobile = "React Native"
+            database = "MySQL"
+        }
+    }
+    const love = "I'm Passionete in Technology 💻❤️"
+    console.log("This is me! Thank's for the visit!")
+}
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-odorcik-87771522a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielodorcik_/)
