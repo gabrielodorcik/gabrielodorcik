@@ -1,8 +1,8 @@
-<div align="center">
+<div class="main" align="center">
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
 <br>
 </h1>
-<div align="right">
+<div class="js" align="right">
     ```javascript
     const name = "Gabriel Odorcik"
     function aboutMe(){
