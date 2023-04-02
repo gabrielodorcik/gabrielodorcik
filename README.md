@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
 <br>
 </h1>
