@@ -2,7 +2,7 @@
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, my friend <𝚌𝚘𝚍𝚎𝚛<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">/>! 
 <br>
 </h1>
-<div >
+
     ```javascript
     const name = "Gabriel Odorcik"
     function aboutMe(){
@@ -24,8 +24,8 @@
         const love = "I'm Passionete in Technology 💻❤️"
         console.log("This is me! Thank's for the visit!")
     }
-    ```
-</div>
+   ```
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-odorcik-87771522a)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielodorcik_/)
