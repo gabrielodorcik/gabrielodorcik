@@ -11,7 +11,7 @@
         const pronouns = "He | Him";
         let age = 19;
         let profission = "Intern at IBM ServiceNow"  
-        const favoriteHobby = "I like watch Disney movies"  
+        const favoriteHobby = "I like to watch Disney movies"  
         let graduantionCollege = "Second Semester in Technological Analysis and Systems Development";
         const graduationTechnical = "Systems Development Technician";
         let Technologies = class Technologies { //sorry kk the body class is totally wrong, but I believe that you will understand.
