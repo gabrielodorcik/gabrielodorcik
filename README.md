@@ -37,7 +37,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielodorcik&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/gabrielodorcik/github-readme-stats)
 
- ## I'm passionate about technology!💻❤️  <br>
  
  <p align="center"> 
   <i><b>Thank´s for visit...</b></i><br>
