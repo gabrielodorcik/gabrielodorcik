@@ -48,13 +48,15 @@
 </p>
  
  
- ## My History 
+ ## Resume
  
- ###      I started in the programming world in the last year of high school, when I started the  Systems Development Course at ETEC. It was a challenging and complex experience, because just like high school, it was a remote teaching, so throughout the course, I had a certain difficulty in learning and at certain times (different in real kk) I thought about giving up. 
+ ###      Technician by ETEC (Technical School of Centro Paula e Souza) Bento Quirino in 2022. Attending the second semester at FATEC Campinas (Faculty of Technology of São Paulo).
  
- ###      However, I had a lot of support from my family, who did not let me give up. When I finished high school at 2021, I decided to take the Fatec Campinas Vestibular, in the Systems Analysis and Development course. In 2022, I had to make one of the most difficult choices, which would be my turning point, in my opinion. Whether or not to lock course to focus on College and enter the job market.
+ ###      I started in Programming when I had 17 years old, still in high school. I was never in the technology area, but since I found it, I fell in love. I like to say that it was "Passion at first code". And since then, I've been getting better and training.
  
- ###      After a lot of conversation, support from friends, family and ex-teachers, I decided to do both together, I confess that it was difficult, but not impossible, so I ran after it, money from the driver's license was in this process, but I know that in the future I save much more. Today, I am a Systems Technician and Development, finishing the first semester of college and looking for my first opportunity in the job market!
+ ###      I'm in love with the Front-End, however, I really like the Back-End. At a certain time, I considered going into the area of Cybersecurity or Data Science, I had a soft spot for Python in that sense. But Javascript won my heart along with the front end together.
+ 
+ ###      Today, I am an intern at IBM in Hortolandia. And I work with ServiceNow. I love Technology, and I would love to develop myself further, I know I'm capable of it. With this, I realize my dream of being a great developer in the future.
  
  </div>
  
