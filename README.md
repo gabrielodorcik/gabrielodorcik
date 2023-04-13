@@ -10,8 +10,8 @@
     function aboutMe(){
         const pronouns = "He | Him";
         let age = 2023 - (2003 + 1);
-        let profission = "Intern at IBM ServiceNow"  
-        const favoriteHobby = "I like to watch Disney movies" 
+        let profission = "Intern at IBM CIO ServiceNow"  
+        const favoriteHobby = "I like to watch Disney movies and I like to sing and to play guitar" 
         const loveTo = "Coffee and Code"
         let graduantionCollege = "Second Semester in Technological Analysis and Systems Development";
         const graduationTechnical = "Systems Development Technician";
