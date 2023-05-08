@@ -53,7 +53,7 @@
  
  ###      Technician by ETEC (Technical School of Centro Paula e Souza) Bento Quirino in 2022. Attending the second semester at FATEC Campinas (Faculty of Technology of São Paulo).
  
- ###      I started in Programming when I had 17 years old, still in high school. I was never in the technology area, but since I found it, I fell in love. I like to say that it was "Passion at first code". And since then, I've been getting better and training.
+ ###      I started in Programming when I was 17 years old, still in high school. I was never in the technology area, but since I found it, I fell in love. I like to say that it was "Passion at first code". And since then, I've been getting better and training.
  
  ###      I'm in love with the Front-End, however, I really like the Back-End. At a certain time, I considered going into the area of Cybersecurity or Data Science, I had a soft spot for Python in that sense. But Javascript won my heart along with the front end together.
  
