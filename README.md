@@ -7,27 +7,24 @@
 
  ```javascript
     const name = "Gabriel Odorcik"
-    function aboutMe(){
-        const pronouns = "He | Him";
-        let age = 2023 - (2003 + 1);
-        let profission = "Intern at IBM CIO ServiceNow"  
-        const favoriteHobby = "I like to watch Disney movies and I like to sing and to play guitar" 
-        let experience = "I have experience with two lectures about programming. I love lear and teach!"
-        const loveTo = "Coffee and Code"
-        let graduantionCollege = "Second Semester in Technological Analysis and Systems Development";
-        const graduationTechnical = "Systems Development Technician";
-        let Technologies = class Technologies { //sorry kk the body class is totally wrong, but I believe that you will understand.
-            constructor(frontendDeveloper) {
-                frontend = "Javascript, HTML/CSS and React.js"
-                frontendThatKnow = "Angular.js, PHP and Flask"
-                backend = "Python, Java, PHP and Node.js"
-                mobile = "React Native"
-                database = "MySQL"
-            }
-        }
-        const love = "I'm Passionete in Technology 💻❤️"
-        console.log("This is me! Thank's for the visit!")
+    var profission = "Intern at IBM CIO ServiceNow";
+    var title = "Security Analyst"
+    var myJob = "I work with security and compliance on IBM to servicenow platform, I develop metrics and I maintain control of standards and ensure that users follow processes";
+    var gabrielOdorcik = {
+       const pronouns = "He | Him";
+       var age = 2023 - 2003;
+       var favoriteHobby = "I like to watch Disney movies and I like to sing and to play guitar";
+       var graduantionCollege = "Technological Analysis and Systems Development in progress...";
+       const graduationTechnical = "Systems Development Technician";
+       const love = "I'm Passionete in Technology 💻❤️";
     }
+    var technologies = {
+       frontend = "Javascript","HTML/CSS","React.js","Angular.js","PHP";
+       backend = "Python","Node.js","C#","Java";
+       mobile = "ReactNative","Kotlin";
+       database = "mongoDB","MySql";
+    }
+    console.log("This is me! Thank's for the visit!")
  ```
 <div align="center">
 
