@@ -8,12 +8,12 @@
  ```javascript
     const name = "Gabriel Odorcik"
     var profission = "Intern at IBM CIO ServiceNow";
-    var title = "Security Analyst"
-    var myJob = "I work with security and compliance on IBM to servicenow platform, I develop metrics and I maintain control of standards and ensure that users follow processes";
+    var title = "Developer"
+    var myJob = "I'm studying to be a MERN developer. I work as Developer from Servicenow at IBM, I'm from platform team and in my day-to-day I use Javascript to create new feautres, fixes from bug, releases and averything that is needed to maintan the health from platform.";
     var gabrielOdorcik = {
        const pronouns = "He | Him";
        var age = 2023 - 2003;
-       var favoriteHobby = "I like to watch Disney movies and I like to sing and to play guitar";
+       var favoriteHobby = "I like playing PS5 in my free time (I love Black Myth Wukong and RDR2) and I like to spent time with my family.";
        var graduantionCollege = "Technological Analysis and Systems Development in progress...";
        const graduationTechnical = "Systems Development Technician";
        const love = "I'm Passionete in Technology 💻❤️";
